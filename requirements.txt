@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic>=2.7,<3
+pypdf>=5.1.0,<7.0.0
+# Renders scanned PDF pages to images and reads PDF tables for document intake.
+pymupdf>=1.24,<2.0
+playwright>=1.44
+
