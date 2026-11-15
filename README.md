@@ -4,6 +4,8 @@ A local-first finance workspace for freelancers and small businesses: invoicing,
 expenses, reports, document intake, and **SpendWise** spending analytics over the
 same records.
 
+New here? See **[HOWTOUSE.md](HOWTOUSE.md)** for a task-by-task walkthrough.
+
 Everything runs on one machine. There is no database server, no cloud account,
 and no telemetry. The optional assistant and document reader call AI providers
 from the server only.
