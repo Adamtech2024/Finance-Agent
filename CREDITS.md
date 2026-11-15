@@ -24,3 +24,7 @@ Purpose: Revenue analysis, transaction trends and sales analytics testing.
 License: CC BY 4.0.
 DOI: https://doi.org/10.24432/C5BW33
 
+
+## Credits AI
+- Credits to Chatgpt for making a plan to make this project
+- Credits to Deepseek V4.1 for helping me debug and fix some of the errors that it found during the build
